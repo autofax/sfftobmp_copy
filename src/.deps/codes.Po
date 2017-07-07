@@ -1,0 +1,7 @@
+codes.o: codes.cpp /usr/include/stdc-predef.h sfftypes.h codes.h
+
+/usr/include/stdc-predef.h:
+
+sfftypes.h:
+
+codes.h:
